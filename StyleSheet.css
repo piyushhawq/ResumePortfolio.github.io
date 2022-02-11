@@ -7,7 +7,7 @@ body {
 #body-header {
 	background-image: url("https://raw.githubusercontent.com/piyushhawq/ResumePortfolio.github.io/main/media/linkedincover.png");
 	height: 75vh;
-	background-size: cover;
+	background-size: auto;
 	background-position: top;
 	background-attachment: fixed;
 }
