@@ -5,7 +5,7 @@ body {
 /* to remove all the resedual margins */
 
 #body-header {
-	background-image: url("media/cover3.jpg");
+	background-image: url("https://raw.githubusercontent.com/piyushhawq/ResumePortfolio.github.io/main/media/linkedincover.png");
 	height: 75vh;
 	background-size: cover;
 	background-position: top;
